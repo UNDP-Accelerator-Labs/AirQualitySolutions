@@ -1,7 +1,7 @@
 # Solutions to air pollution
 
 ## Data description
-The [UNDP Accelerator Lab in North Macedonia](https://www.undp.org/acceleratorlabs/undp-north-macedonia-accelerator-lab) has compiled a collection of roughly 135 desk notes (referred to here as “the dataset”) on air quality solutions from around the world. These range from policy measures, to infrastructure design and architecture, to technological solutions. Each note includes a short description of the solution, some high-level geographic information, a link to the solution’s official webpage or mention in the media, and (in most cases) one or more images that illustrate the solution. These are shared here as cards to facilitate workshop activities.
+The [UNDP Accelerator Lab in North Macedonia](https://www.undp.org/acceleratorlabs/undp-north-macedonia-accelerator-lab) has compiled a collection of 135 desk notes (referred to here as “the dataset”) on solutions to air pollution from around the world. These range from active measures to policy measures, to awareness raising and knowledge sharing. Each note includes a short description of the solution, some high-level geographic information, a link to the solution’s official webpage or mention in the media, and (in most cases) one or more images that illustrate the solution. These are shared here as cards to facilitate workshop activities.
 
 Note this is a collection of notes shared primarily for inspiration. The solutions showcased here are not endorsed in any way by the UNDP Accelerator Labs, or by UNDP.
 
